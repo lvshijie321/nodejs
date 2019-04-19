@@ -8,7 +8,7 @@
             "type": "node",
             "request": "launch",
             "name": "Launch Program",
-            "program": "${workspaceFolder}\\04路径引用.js"
+            "program": "${workspaceFolder}\\06fs模块.js"
         }
     ]
 }
