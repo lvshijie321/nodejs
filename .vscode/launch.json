@@ -8,7 +8,7 @@
             "type": "node",
             "request": "launch",
             "name": "Launch Program",
-            "program": "${workspaceFolder}\\07流的方式读取和写入数据.js"
+            "program": "${workspaceFolder}\\08静态资源服务器.js"
         }
     ]
 }

@@ -11,8 +11,10 @@ http.createServer((req, res) => {
     
     // 浏览器请求服务后（localhost:1001）会接收到 2 次请求，另一次是 /favicon.ico
     
-    res.write('你好，nodejs')
-    res.write('你好，nodejs')
-    res.write('你好，nodejs')
+    if (req.url !== '/favicon.ico') { // 过滤 favicon.ico
+        res.write('你好，nodejs')
+        res.write('你好，nodejs')
+        res.write('你好，nodejs')
+    }
     res.end() // 如果不加结束响应语句，标签页一直转圈
 }).listen(1001, '127.0.0.1') //  '127.0.0.1' 可省略
