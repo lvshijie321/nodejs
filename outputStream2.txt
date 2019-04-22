@@ -1,0 +1,5600 @@
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+C:\Program Files\nodejs\node.exe --inspect-brk=45678 06fs模块.js
+Debugger listening on ws://127.0.0.1:45678/f
+a28d1ed-c34d-4f11-ac2e-49cb4e06a0c9
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+true
+06fs模块.js:6
+false
+06fs模块.js:7
+这是追加的内容
+
