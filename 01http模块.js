@@ -16,5 +16,7 @@ http.createServer((req, res) => {
         res.write('你好，nodejs')
         res.write('你好，nodejs')
     }
-    res.end() // 如果不加结束响应语句，标签页一直转圈
+    res.end() // 如果不加结束响应语句，标签页一直转圈，且第二次 favicon.ico 不会请求
+    // res.write('。。。'); res.end() 可以写成 res.end('。。。')
+    
 }).listen(1001, '127.0.0.1') //  '127.0.0.1' 可省略

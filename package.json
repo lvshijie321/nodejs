@@ -4,6 +4,7 @@
   "description": "",
   "main": "01http模块.js",
   "dependencies": {
+    "ejs": "^2.6.1",
     "jquery": "^3.4.0",
     "nav": "^1.0.0"
   },
