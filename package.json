@@ -5,7 +5,9 @@
   "main": "01http模块.js",
   "dependencies": {
     "ejs": "^2.6.1",
+    "express": "^4.16.4",
     "jquery": "^3.4.0",
+    "mongodb": "^3.2.3",
     "nav": "^1.0.0"
   },
   "devDependencies": {

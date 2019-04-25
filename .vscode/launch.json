@@ -8,7 +8,7 @@
             "type": "node",
             "request": "launch",
             "name": "Launch Program",
-            "program": "${workspaceFolder}\\10ejs模板.js"
+            "program": "${workspaceFolder}\\14express模板.js"
         }
     ]
 }
