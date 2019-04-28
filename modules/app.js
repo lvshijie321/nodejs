@@ -21,6 +21,7 @@ module.exports = (() => {
         post: {},
     }
     const app = (req, res) => {
+
         const pathName = url.parse(req.url).pathname
         const method = req.method.toLowerCase()
         routes[method][pathName]
