@@ -4,6 +4,10 @@ const express = require('express');
 const app = express();
 const cookieParser = require('cookie-parser');
 
+/**
+ * 第一种 cookie 是持久化 cookie ,把 cookie 固化在用户的浏览器里，只要 cookie 不过期，关闭浏览器依旧存在。
+   第二种是会话 cookie ,把 cookie 放在浏览器内存里,只能在这个浏览器的内存范围里完成会话,如果关闭浏览器 cookie 就被清除，或者手动删除 cookie 也会清除，是一种不长久的方式。session 就使用了第二种会话 cookie 方式。
+ */
 
 // 第三方中间件，处理 cookie
 //app.use(cookieParser())
