@@ -35,7 +35,7 @@ app.use(
 app.get("/login", (req, res) => {
   // 向 session 中设置需要的属性
   // 把 connect.sid 作为 cookie 传给客户端
-  req.session.userinfo = "zhangsan1"; // 执行这行代码，回向 sessions 集合中插入数据
+  req.session.userInfo = "zhangsan1"; // 执行这行代码，回向 sessions 集合中插入数据
   req.session.count = count++
   res.send("登陆成功");
 });
@@ -54,8 +54,8 @@ app.get("/", (req, res) => {
   res.cookie("aid", "aid123"); // 这是持久化 cookie，关闭浏览器依旧存在
 
   //req.session.cookie.maxAge=5000; //重新设置 cookie 的过期时间，这时会重新返回会话 cookie，但 connect.sid 不变， 过期时间变了
-  req.session.userinfo
-    ? res.send("你好，" + req.session.userinfo)
+  req.session.userInfo
+    ? res.send("你好，" + req.session.userInfo)
     : res.send("session 过期");
 });
 

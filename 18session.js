@@ -19,7 +19,7 @@ app.use(session({
   saveUninitialized: true, //  强制将未初始化的 session 存储。当新建了一个 session 且未设定属性或值时，它就处于未初始化状态。此配置项为 true ，session 未初始化时服务端也会返回会话 cookie，false 则不返回 
   // 这对于登陆验证，减轻服务端存储压力，权限控制是有帮助的。
   cookie: { // cookie 的所有配置项这里都可以进行配置
-    maxAge: 10000, // cookie 过期时间，无论期间是否请求服务器，都会过期
+    maxAge: 1000 * 60 * 30, // cookie 过期时间，无论期间是否请求服务器，都会过期
     secure: false, // secure: true 只有 https 下才能访问 cookie
    },
    rolling: true, // 每次请求重置 cookie 选项中的 maxAge 值，变相的延长 maxAge 时间，返回客户端会话 cookie， 里面的connect.sid 不变，过期时间改变。
@@ -29,7 +29,7 @@ app.get('/login', (req, res) => {
   
   // 向 session 中设置需要的属性
   // 把 connect.sid 作为 cookie 传给客户端
-  req.session.userinfo = 'zhangsan'
+  req.session.userInfo = 'zhangsan'
 
   res.send('登陆成功')
   
@@ -48,8 +48,8 @@ app.get('/', (req, res) => {
   res.cookie('aid', 'aid123') // 这是持久化 cookie，关闭浏览器依旧存在
   
   //req.session.cookie.maxAge=5000; //重新设置 cookie 的过期时间，这时会重新返回会话 cookie，但 connect.sid 不变， 过期时间变了
-  req.session.userinfo 
-    ? res.send('你好，' + req.session.userinfo)
+  req.session.userInfo 
+    ? res.send('你好，' + req.session.userInfo)
     : res.send('session 过期')
 })
 

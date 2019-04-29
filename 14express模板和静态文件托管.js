@@ -4,7 +4,7 @@ const express = require('express')
 const app = express()
 
 app.set('view engine', 'ejs') // 或者 pug 
-
+app.locals.userInfo = 1// 设置 ejs 全局变量，这样每个 ejs 文件，使用到 userInfo 变量时，值都为 1。不需要每次书写 res.render('index.ejs', { userInfo: 1 })
 app.set('views', __dirname + '/static')// 模板默认找 views 目录，如果要改变
 
 // 中间件 app.use

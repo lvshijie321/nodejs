@@ -39,15 +39,21 @@ http.createServer((req, res) => {
 
                 // 查询
                 const result = db.collection('admin').find({})
-                const list = []
-                result.each((err, data) => {
-                    if (!err) {
-                        if (data) {
-                            list.push(data.a)
-                        } else { // 遍历完成
-                            res.end(JSON.stringify(list))
-                        }
-                    }
+                // const list = []
+                // result.each((err, data) => {
+                //     if (!err) {
+                //         if (data) {
+                //             list.push(data.a)
+                //         } else { // 遍历完成
+                //             res.end(JSON.stringify(list))
+                //             client.close()
+                //         }
+                //     }
+                // })
+                
+                // 另一种方法
+                result.toArray((err, data) => {
+                    debugger
                 })
             }
         })
