@@ -12,6 +12,7 @@
     "express-session": "^1.16.1",
     "jquery": "^3.4.0",
     "mongodb": "^3.2.3",
+    "multiparty": "^4.2.1",
     "nav": "^1.0.0"
   },
   "devDependencies": {
