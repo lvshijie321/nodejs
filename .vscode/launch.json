@@ -8,7 +8,7 @@
             "type": "node",
             "request": "launch",
             "name": "Launch Program",
-            "program": "${workspaceFolder}\\20商品管理系统.js"
+            "program": "${workspaceFolder}\\test.js"
         }
     ]
 }
