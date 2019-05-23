@@ -1,9 +1,12 @@
-const app = require('./modules/app')
+const myExpress = require('./modules/app')
+const app = myExpress() // 或 new myExpress()
 const ejs = require('ejs')
  
-app.listen(6661)
+app.listen(5676)
 
-
+app.get('/news/china/:id/:uid', (req, res) => {
+     res.end(JSON.stringify(req._params))
+})
 
 app.get('/login', (req, res) => {
     ejs.renderFile(

@@ -11,7 +11,7 @@ http.createServer((req, res) => {
     // res.writeHead 需要写在 res.write() 之前，否则会报错：Provisional headers are shown
     
     // 浏览器请求服务后（localhost:1001）会接收到 2 次请求，另一次是 /favicon.ico
-    
+    //端口号大于 1000 （预估的值，1000不会发起 /favicon.ico ）浏览器请求服务后（localhost:1001）会接收到 2 次请求，另一次是 /favicon.ico
     if (req.url !== '/favicon.ico') { // 过滤 favicon.ico
         res.write('你好，nodejs')
         res.write('你好，nodejs')

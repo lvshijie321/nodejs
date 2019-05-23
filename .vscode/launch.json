@@ -9,7 +9,7 @@
             "type": "node",
             "request": "launch",
             "name": "Launch Program",
-            "program": "${workspaceFolder}/22模块化改造商品管理系统.js"
+            "program": "${workspaceFolder}/11模仿express封装路由.js"
         }
     ]
 }
