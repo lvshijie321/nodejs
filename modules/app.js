@@ -14,11 +14,14 @@ const routes = {
         res.end("404");
     },
     get: {
-        "/favicon.ico": (req, res) => {
+        "/favicon.ico": {
+            params: [],
+            callback: (req, res) => {
         res.writeHead(200, {
             "Content-Type": "text/html;charset=utf-8"
         });
         res.end();
+            }
         }
     },
     post: {},
