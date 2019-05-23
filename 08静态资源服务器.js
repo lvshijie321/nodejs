@@ -15,13 +15,14 @@ http
 
     if (pathName !== "/favicon.ico") {
       // 过滤 favicon.ico
-      fs.readFile(`static${pathName}`, (err, data) => {
+      fs.readFile(`static${pathName}`,'binary', (err, data) => {
         if (!err) {
           mime(pathName, emitter);
           emitter.on("onContentType", _mime => {
             res.writeHead(200, { "Content-Type": `${_mime};charset=utf-8` });
             res.write(
-              "application/octet-stream" === _mime ? data : data.toString()
+              data, 'binary'
+              //"application/octet-stream" === _mime ? data : data.toString()
             );
             res.end();
           });
