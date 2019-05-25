@@ -12,7 +12,7 @@ const session = require('express-session');
 
 // 首次访问 /login 或 / 任何注册的路由， 因为没有携带 connect.sid（name 字段的属性值） 将生成一个 sid（key），和 session(value),
 // 只有 req 中的 connect.sid 为空时，才会返回客户端会话 cookie，里面包含 connect.sid 。
-// req.session.userInfo = 'zhangsan' 后，返回的 cookie 会更新，加上 userInfo = 'zhangsan' 信息
+
 app.use(session({
   secret: 'keyboard cat', // 作为服务器端生成 session 的签名
   name: 'connect.sid', // 返回浏览器的会话 cookie 的名称
@@ -47,7 +47,17 @@ app.get('/', (req, res) => {
   // 第二次访问时携带了了 connect.sid，取出 connnect.sid（key） 对应的 session（value）
   // 根据 session 作相应的处理。
   res.cookie('aid', 'aid123') // 这是持久化 cookie，关闭浏览器依旧存在
-  
+  req.session.userInfo = 'zhangsan'
+  //req.session.cookie.maxAge=5000; //重新设置 cookie 的过期时间，这时会重新返回会话 cookie，但 connect.sid 不变， 过期时间变了
+  req.session.userInfo 
+    ? res.send('你好，' + req.session.userInfo)
+    : res.send('session 过期')
+})
+app.get('/2', (req, res) => {
+  // 第二次访问时携带了了 connect.sid，取出 connnect.sid（key） 对应的 session（value）
+  // 根据 session 作相应的处理。
+  res.cookie('aid2', 'aid111123') // 这是持久化 cookie，关闭浏览器依旧存在
+  req.session.userInf11o = 'zha111ngsan'
   //req.session.cookie.maxAge=5000; //重新设置 cookie 的过期时间，这时会重新返回会话 cookie，但 connect.sid 不变， 过期时间变了
   req.session.userInfo 
     ? res.send('你好，' + req.session.userInfo)
@@ -57,4 +67,4 @@ app.get('/', (req, res) => {
 
 
 
-app.listen(3000, () => console.log("Example app listening on port 3000!"));
+app.listen(3200, () => console.log("Example app listening on port 3000!"));

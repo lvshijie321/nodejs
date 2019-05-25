@@ -9,7 +9,7 @@
             "type": "node",
             "request": "launch",
             "name": "Launch Program",
-            "program": "${workspaceFolder}/08静态资源服务器.js"
+            "program": "${workspaceFolder}/18session.js"
         }
     ]
 }
