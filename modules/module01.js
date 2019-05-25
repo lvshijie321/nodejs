@@ -2,7 +2,7 @@ exports === module.exports // true
 exports.moduleStr = 'Hello NodeJs'
 exports.moduleStr2 = 1
 
-// exports 和 module.exports 指向同一个对象，所以 exports.moduleStr2 = 1 和 module.exports.myModule 是一样的
+// exports 和 module.exports 指向同一个对象，所以 exports.moduleStr2 = 1 和 module.exports.moduleStr2 = 1 是一样的
 module.exports.myModule = () => {}
 
 // 如果当前模块什么都不导出，require 后会得到一个空对象，

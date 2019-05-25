@@ -12,6 +12,7 @@ const session = require('express-session');
 
 // 首次访问 /login 或 / 任何注册的路由， 因为没有携带 connect.sid（name 字段的属性值） 将生成一个 sid（key），和 session(value),
 // 只有 req 中的 connect.sid 为空时，才会返回客户端会话 cookie，里面包含 connect.sid 。
+// req.session.userInfo = 'zhangsan' 后，返回的 cookie 会更新，加上 userInfo = 'zhangsan' 信息
 app.use(session({
   secret: 'keyboard cat', // 作为服务器端生成 session 的签名
   name: 'connect.sid', // 返回浏览器的会话 cookie 的名称
